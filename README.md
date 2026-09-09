@@ -34,5 +34,5 @@ Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dal
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/muhammaddafaalfaridzy/)
 * **Email:** muhammaddafaalfaridzy@gmail.com

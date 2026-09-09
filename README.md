@@ -35,6 +35,11 @@ Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dal
 * **Akses Proyek:** 
   🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE ENTERPRISE DASHBOARD](https://datastudio.google.com/reporting/548a4427-2166-4465-8863-17173441530b)**
 
+#### 🎯 Executive Business Insights (Hasil Analisis):
+1. **Analisis Korelasi (Scatter Plot):** Hasil visualisasi bagan sebar menunjukkan tren korelasi negatif yang jelas. Provinsi dengan Tingkat Pengangguran Terbuka (TPT) yang tinggi (seperti Banten dan Jawa Barat) cenderung memiliki Rerata Pengeluaran Per Kapita yang lebih rendah. Hal ini membuktikan bahwa stabilitas lapangan kerja berdampak langsung pada daya beli masyarakat harian.
+2. **Klaster Daya Beli Tinggi (High Purchasing Power):** Provinsi DKI Jakarta dan DI Yogyakarta mendominasi klaster daya beli tertinggi dengan kontribusi jumlah gerai ritel aktif yang sangat padat. Ini menandakan bahwa wilayah dengan penetrasi ritel modern yang tinggi berjalan beriringan dengan tingkat kesejahteraan ekonomi masyarakat lokal.
+3. **Rekomendasi Strategi Bisnis (Untuk Ritel/Perbankan):** Ekspansi gerai ritel baru atau penyaluran kredit konsumer sebaiknya diprioritaskan pada wilayah klaster *Medium-to-High* yang memiliki tingkat pengangguran di bawah 5% (seperti Bali dan Jawa Timur) guna meminimalkan risiko kredit macet dan mengoptimalkan perputaran omzet penjualan harian.
+
 
 ## 📬 Connect with Me
 * **LinkedIn:** [https:MuhammadDafaAlfaridzy](https://www.linkedin.com/in/muhammaddafaalfaridzy/)

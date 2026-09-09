@@ -28,10 +28,13 @@ Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dal
 * **Deskripsi Proyek:** Mengelola dan memvalidasi dataset transaksi finansial harian berkapasitas besar guna mereduksi kesalahan entri (*human error*).
 * **Pencapaian Kunci:** Mempertahankan tingkat akurasi pencatatan sebesar 99.8% untuk pengelolaan sirkulasi lebih dari 1.500 transaksi per hari menggunakan formula makro & pivot tabel.
 
-### ⚓ 3. Marine Operations Quality Control (Studi Kasus: KKP)
-* **Deskripsi Proyek:** Melakukan audit kebersihan, standardisasi, serta verifikasi data tata kelola maritim dari berbagai direktorat guna memvalidasi keaslian berkas pelaporan.
+### 📈 3. Regional Economic Welfare & Consumer Purchasing Power Analysis (Studi Kasus: Makroekonomi Indonesia)
+* **Deskripsi Proyek:** Membangun dasbor analisis makroekonomi interaktif untuk mengukur korelasi antara tingkat pengangguran daerah (TPT) terhadap daya beli dan rerata pengeluaran per kapita di 20 provinsi Indonesia.
+* **Fitur Utama:** Integrasi bagan sebar (*Scatter Plot*) untuk analisis korelasi linear, kartu skor KPI otomatis, serta tombol filter *Indeks Daya Beli* untuk segmentasi performa ekonomi daerah.
+* **Teknologi:** Google Sheets & Google Looker Studio.
+* **Akses Proyek:** 
+  🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE ENTERPRISE DASHBOARD](https://datastudio.google.com/reporting/548a4427-2166-4465-8863-17173441530b)**
 
----
 
 ## 📬 Connect with Me
 * **LinkedIn:** [https:MuhammadDafaAlfaridzy](https://www.linkedin.com/in/muhammaddafaalfaridzy/)

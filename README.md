@@ -1,24 +1,38 @@
-# Muhammad Dafa Alfaridzy - Data Portfolio 📊
+# 📊 Muhammad Dafa Alfaridzy | Data Portfolio
+> *Turning raw transaction operational data into actionable business insights.*
 
-Halo! Saya adalah lulusan Teknik Informatika dari Universitas Gunadarma dengan fokus keahlian pada pengolahan, pembersihan, dan visualisasi data. Di bawah ini adalah proyek data nyata yang telah saya kerjakan.
-
----
-
-## 🛠️ Data Projects
-
-### 1. Rekonsiliasi & Analisis Data Transaksi Harian (Studi Kasus: Bank Mandiri)
-* **Deskripsi:** Mengolah dan memvalidasi dataset transaksi harian berkapasitas besar untuk meminimalkan kesalahan input data (*human error*) dan mempercepat proses pelaporan berkala.
-* **Tools Used:** Advanced Excel (Pivot Table, VLOOKUP/XLOOKUP, Data Validation).
-* **Key Achievement:** Berhasil mempertahankan akurasi data sebesar 99.8% untuk pengelolaan lebih dari 1.500 transaksi setiap harinya.
-* **Live Dashboard:** [Klik di Sini untuk Melihat Dashboard Interaktif](https://datastudio.google.com/reporting/8ee0e3ff-8311-49a4-9f2f-178be9ccfbed)
-
-### 2. Analisis & Validasi Data Pengelolaan Maritim (Studi Kasus: KKP)
-* **Deskripsi:** Melakukan validasi dan verifikasi data tata kelola maritim dari berbagai sumber untuk memastikan konsistensi data sebelum digunakan sebagai dasar pengambilan keputusan.
-* **Tools Used:** Spreadsheets, Data Quality Control Checklist.
-* **Key Achievement:** Menyusun visualisasi laporan berkala yang mempermudah sinkronisasi data antar departemen terkait.
+Welcome to my professional data analytics profile. I am an Informatics Engineering graduate with a strong passion for data optimization, analytical visualization, and database management.
 
 ---
 
-## 📬 Kontak & Media Sosial
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+## 🛠️ Technical Competency & Toolkits
+Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dalam proyek analitik:
+
+| Data Cleansing & Extraction | Data Visualization | Core Framework |
+| :--- | :--- | :--- |
+| 🟩 Microsoft Excel (Advanced) | 🟦 Google Looker Studio | ⚙️ Data Modeling |
+| 🟩 SQL Queries (Basic/Intermediate) | 🟦 Power BI (Basic) | ⚙️ Project Management |
+
+---
+
+## 🚀 Highlighted Data Projects
+
+### 📊 1. Retail Sales Performance Dashboard (Studi Kasus: Ritel Swalayan)
+* **Deskripsi Proyek:** Mengembangkan ekosistem dasbor bisnis interaktif untuk memonitor tren omzet penjualan toko ritel di berbagai wilayah DKI Jakarta secara aktual.
+* **Fitur Utama:** Tombol penyaringan dinamis (*multi-dimension filtering*) berdasarkan kategori produk dan lokasi gerai guna mempermudah pengambilan keputusan manajerial.
+* **Teknologi:** Google Sheets & Google Looker Studio.
+* **Akses Proyek:** 
+  🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE DASHBOARD INTERAKTIF](https://datastudio.google.com/reporting/8ee0e3ff-8311-49a4-9f2f-178be9ccfbed)**
+
+### 🏦 2. Data Reconciliation & Transaction Validation (Studi Kasus: Bank Mandiri)
+* **Deskripsi Proyek:** Mengelola dan memvalidasi dataset transaksi finansial harian berkapasitas besar guna mereduksi kesalahan entri (*human error*).
+* **Pencapaian Kunci:** Mempertahankan tingkat akurasi pencatatan sebesar 99.8% untuk pengelolaan sirkulasi lebih dari 1.500 transaksi per hari menggunakan formula makro & pivot tabel.
+
+### ⚓ 3. Marine Operations Quality Control (Studi Kasus: KKP)
+* **Deskripsi Proyek:** Melakukan audit kebersihan, standardisasi, serta verifikasi data tata kelola maritim dari berbagai direktorat guna memvalidasi keaslian berkas pelaporan.
+
+---
+
+## 📬 Connect with Me
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
 * **Email:** muhammaddafaalfaridzy@gmail.com

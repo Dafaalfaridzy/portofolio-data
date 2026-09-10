@@ -24,9 +24,12 @@ Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dal
 * **Akses Proyek:** 
   🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE DASHBOARD INTERAKTIF](https://datastudio.google.com/reporting/8ee0e3ff-8311-49a4-9f2f-178be9ccfbed)**
 
-### 🏦 2. Data Reconciliation & Transaction Validation (Studi Kasus: Bank Mandiri)
-* **Deskripsi Proyek:** Mengelola dan memvalidasi dataset transaksi finansial harian berkapasitas besar guna mereduksi kesalahan entri (*human error*).
-* **Pencapaian Kunci:** Mempertahankan tingkat akurasi pencatatan sebesar 99.8% untuk pengelolaan sirkulasi lebih dari 1.500 transaksi per hari menggunakan formula makro & pivot tabel.
+### 📊 2. Enterprise Retail & E-Commerce Performance Dashboard (Big Data Case Study)
+* **Deskripsi Proyek:** Mengembangkan ekosistem visualisasi data retail berskala besar (540.000+ baris transaksi e-commerce global) untuk memetakan volume transaksi dan sebaran kuantitas komoditas secara internasional.
+* **Fitur Utama:** Implementasi manipulasi data tingkat lanjut menggunakan sintaks query database SQL (`=QUERY`), visualisasi kontribusi pasar dengan *Peta Hierarki (Treemap)*, serta ringkasan metrik transaksi global interaktif.
+* **Teknologi:** SQL Analytics, Google Sheets, & Google Looker Studio.
+* **Akses Proyek:** 
+  🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE ENTERPRISE DARK MODE DASHBOARD](https://datastudio.google.com/reporting/723fbc3a-0c4d-44a6-a026-34855a109f87)**
 
 ### 📈 3. Regional Economic Welfare & Consumer Purchasing Power Analysis (Studi Kasus: Makroekonomi Indonesia)
 * **Deskripsi Proyek:** Membangun dasbor analisis makroekonomi interaktif untuk mengukur korelasi antara tingkat pengangguran daerah (TPT) terhadap daya beli dan rerata pengeluaran per kapita di 20 provinsi Indonesia.

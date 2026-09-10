@@ -24,12 +24,16 @@ Berikut adalah keahlian teknis dan instrumen data yang aktif saya operasikan dal
 * **Akses Proyek:** 
   🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE DASHBOARD INTERAKTIF](https://datastudio.google.com/reporting/8ee0e3ff-8311-49a4-9f2f-178be9ccfbed)**
 
-### 📊 2. Enterprise Retail & E-Commerce Performance Dashboard (Big Data Case Study)
-* **Deskripsi Proyek:** Mengembangkan ekosistem visualisasi data retail berskala besar (540.000+ baris transaksi e-commerce global) untuk memetakan volume transaksi dan sebaran kuantitas komoditas secara internasional.
-* **Fitur Utama:** Implementasi manipulasi data tingkat lanjut menggunakan sintaks query database SQL (`=QUERY`), visualisasi kontribusi pasar dengan *Peta Hierarki (Treemap)*, serta ringkasan metrik transaksi global interaktif.
-* **Teknologi:** SQL Analytics, Google Sheets, & Google Looker Studio.
+### 📊 2. Enterprise Retail & E-Commerce End-to-End Data Pipeline (Big Data Case Study)
+* **Deskripsi Proyek:** Membangun arsitektur dan ekosistem data retail berskala besar (541.909 baris transaksi e-commerce global) untuk mengaudit volume transaksi dan rasio harga produk secara internasional.
+* **Fitur Utama & Technical Pipeline:** 
+  1. *Database Ingestion:* Merancang skema DDL `CREATE TABLE` di PostgreSQL lokal via pgAdmin 4.
+  2. *Data Cleaning:* Menangani masalah Windows File Permission dan resolusi *Character Encoding Glitch (UTF-8 to WIN1252)* pada simbol mata uang asing via perintah `COPY`.
+  3. *Data Manipulation:* Menulis sintaks query SQL analitik (`SELECT`, `COUNT`, `SUM`, `ROUND(AVG())`, `GROUP BY`, `ORDER BY`) untuk agregasi data 38 negara unik.
+  4. *Visualisasi Advanced:* Desain Enterprise UI/UX *Dark Mode* menggunakan kontainer terisolasi (*Rounded Corner Panels*).
+* **Teknologi:** PostgreSQL, pgAdmin 4, SQL Analytics, & Google Looker Studio.
 * **Akses Proyek:** 
-  🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE ENTERPRISE DARK MODE DASHBOARD](https://datastudio.google.com/reporting/723fbc3a-0c4d-44a6-a026-34855a109f87)**
+  🔗 **[KLIK DI SINI UNTUK MEMBUKA LIVE ENTERPRISE DARK MODE DASHBOARD](https://datastudio.google.com/reporting/68e82863-eda7-440a-b70f-984811e29ae1)**
 
 ### 📈 3. Regional Economic Welfare & Consumer Purchasing Power Analysis (Studi Kasus: Makroekonomi Indonesia)
 * **Deskripsi Proyek:** Membangun dasbor analisis makroekonomi interaktif untuk mengukur korelasi antara tingkat pengangguran daerah (TPT) terhadap daya beli dan rerata pengeluaran per kapita di 20 provinsi Indonesia.
